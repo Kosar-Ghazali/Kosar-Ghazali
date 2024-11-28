@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kosar-Ghazali
 - 👀 I’m interested in data science.
-- I'm thrilled to introduce myself as an passionate Industrial Engineering student currently in my seventh semester at Ferdowsi University of Mashhad. I am a data science, machine learning, and optimization enthusiast.👩‍💻
+- I’m a passionate Data Scientist who studied Industrial Engineering at Ferdowsi University of Mashhad. I have a deep love for research and am constantly seeking to advance my skills in my favorite fields: data science, optimization, and statistics.👩‍💻
 - 📫 you can reach me through email at kosar.ghazalii@gmail.com or linkidin at linkedin.com/in/kosar-ghazali-6b4b31226
 
 <!---
